@@ -1,0 +1,27 @@
+{
+  "name": "docker-registry-client-types",
+  "version": "3.3.0-1",
+  "description": "",
+  "types": "./types/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc-lab/node-docker-registry-client-types.git"
+  },
+  "keywords": [
+    "docker-registry-client",
+    "typescript",
+    "types",
+    "docker",
+    "registry"
+  ],
+  "author": "joseph lee <development@jc-lab.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jc-lab/node-docker-registry-client-types/issues"
+  },
+  "homepage": "https://github.com/jc-lab/node-docker-registry-client-types#readme",
+  "devDependencies": {
+    "@types/node": "^13.11.1",
+    "@types/restify": "^8.4.2"
+  }
+}
